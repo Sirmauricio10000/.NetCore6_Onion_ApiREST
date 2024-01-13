@@ -1,0 +1,12 @@
+/media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Infrastructure/Persistence/bin/Debug/net6.0/Persistence.deps.json
+/media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Infrastructure/Persistence/bin/Debug/net6.0/Persistence.dll
+/media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Infrastructure/Persistence/bin/Debug/net6.0/ref/Persistence.dll
+/media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Infrastructure/Persistence/bin/Debug/net6.0/Persistence.pdb
+/media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Infrastructure/Persistence/obj/Debug/net6.0/Persistence.csproj.AssemblyReference.cache
+/media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Infrastructure/Persistence/obj/Debug/net6.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Infrastructure/Persistence/obj/Debug/net6.0/Persistence.AssemblyInfoInputs.cache
+/media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Infrastructure/Persistence/obj/Debug/net6.0/Persistence.AssemblyInfo.cs
+/media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Infrastructure/Persistence/obj/Debug/net6.0/Persistence.csproj.CoreCompileInputs.cache
+/media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Infrastructure/Persistence/obj/Debug/net6.0/Persistence.dll
+/media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Infrastructure/Persistence/obj/Debug/net6.0/ref/Persistence.dll
+/media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Infrastructure/Persistence/obj/Debug/net6.0/Persistence.pdb

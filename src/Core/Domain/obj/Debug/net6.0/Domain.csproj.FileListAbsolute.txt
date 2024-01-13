@@ -1,0 +1,12 @@
+/media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Core/Domain/bin/Debug/net6.0/Domain.deps.json
+/media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Core/Domain/bin/Debug/net6.0/Domain.dll
+/media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Core/Domain/bin/Debug/net6.0/ref/Domain.dll
+/media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Core/Domain/bin/Debug/net6.0/Domain.pdb
+/media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Core/Domain/obj/Debug/net6.0/Domain.csproj.AssemblyReference.cache
+/media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Core/Domain/obj/Debug/net6.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Core/Domain/obj/Debug/net6.0/Domain.AssemblyInfoInputs.cache
+/media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Core/Domain/obj/Debug/net6.0/Domain.AssemblyInfo.cs
+/media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Core/Domain/obj/Debug/net6.0/Domain.csproj.CoreCompileInputs.cache
+/media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Core/Domain/obj/Debug/net6.0/Domain.dll
+/media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Core/Domain/obj/Debug/net6.0/ref/Domain.dll
+/media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Core/Domain/obj/Debug/net6.0/Domain.pdb

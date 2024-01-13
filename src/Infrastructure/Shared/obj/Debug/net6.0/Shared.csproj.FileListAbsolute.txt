@@ -1,0 +1,12 @@
+/media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Infrastructure/Shared/bin/Debug/net6.0/Shared.deps.json
+/media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Infrastructure/Shared/bin/Debug/net6.0/Shared.dll
+/media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Infrastructure/Shared/bin/Debug/net6.0/ref/Shared.dll
+/media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Infrastructure/Shared/bin/Debug/net6.0/Shared.pdb
+/media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Infrastructure/Shared/obj/Debug/net6.0/Shared.csproj.AssemblyReference.cache
+/media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Infrastructure/Shared/obj/Debug/net6.0/Shared.GeneratedMSBuildEditorConfig.editorconfig
+/media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Infrastructure/Shared/obj/Debug/net6.0/Shared.AssemblyInfoInputs.cache
+/media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Infrastructure/Shared/obj/Debug/net6.0/Shared.AssemblyInfo.cs
+/media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Infrastructure/Shared/obj/Debug/net6.0/Shared.csproj.CoreCompileInputs.cache
+/media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Infrastructure/Shared/obj/Debug/net6.0/Shared.dll
+/media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Infrastructure/Shared/obj/Debug/net6.0/ref/Shared.dll
+/media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Infrastructure/Shared/obj/Debug/net6.0/Shared.pdb
