@@ -10,3 +10,8 @@
 /media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Infrastructure/Persistence/obj/Debug/net6.0/Persistence.dll
 /media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Infrastructure/Persistence/obj/Debug/net6.0/ref/Persistence.dll
 /media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Infrastructure/Persistence/obj/Debug/net6.0/Persistence.pdb
+/media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Infrastructure/Persistence/bin/Debug/net6.0/Application.dll
+/media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Infrastructure/Persistence/bin/Debug/net6.0/Domain.dll
+/media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Infrastructure/Persistence/bin/Debug/net6.0/Application.pdb
+/media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Infrastructure/Persistence/bin/Debug/net6.0/Domain.pdb
+/media/mauricio/Acer/Proyectos/DOTNET/Prueba_Tecnica/src/Infrastructure/Persistence/obj/Debug/net6.0/Persistence.csproj.CopyComplete
